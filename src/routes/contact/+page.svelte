@@ -16,7 +16,7 @@
     <span class="value">github.com/aaronr-dev</span>
     <span class="arrow">→</span>
   </a>
-  <a href="/AaronRodriguez_Resume_DE.pdf" target="_blank" class="row">
+  <a href="/AaronRodriguez_Resume.pdf" target="_blank" class="row">
     <span class="label">Resume</span>
     <span class="value">Download PDF</span>
     <span class="arrow">→</span>
