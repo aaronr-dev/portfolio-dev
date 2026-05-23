@@ -1,7 +1,7 @@
 <svelte:head><title>Projects — Aaron Rodriguez</title></svelte:head>
 <script>
   const projects = [
-    { name: 'Box Office Analytics Pipeline', status: 'Live', desc: 'End-to-end analytics pipeline over 50 years of US domestic box office data — 9,000+ films from 1976 to present. Python web scraper, PySpark processing, dbt modeling, Evidence.dev reporting layer.', stack: ['Python', 'PySpark', 'dbt', 'Evidence.dev', 'Linux'] },
+    { name: 'Box Office Analytics Pipeline', status: 'Live', desc: 'End-to-end analytics pipeline over 50 years of US domestic box office data, 9,000+ films from 1976 to present. Python web scraper, PySpark processing, dbt modeling, Evidence.dev reporting layer.', stack: ['Python', 'PySpark', 'dbt', 'Evidence.dev', 'Linux'] },
     { name: 'YNAB Analytics Pipeline', status: 'Live', desc: 'Personal finance pipeline pulling from the YNAB API, modeled with dbt, deployed via Vercel. Production-quality infrastructure built for real budget visibility.', stack: ['YNAB API', 'Python', 'dbt', 'Vercel'] },
     { name: 'Snowflake Personal Lab', status: 'In progress', desc: 'Building a production-quality Snowflake pipeline with streams, tasks, dynamic tables, and Snowpark. Documenting the build as I go.', stack: ['Snowflake', 'dbt', 'Python', 'Snowpark'] },
   ];

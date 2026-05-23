@@ -2,21 +2,21 @@
 <div class="hero">
   <p class="eyebrow">Senior Data Engineer · Huntsville, AL</p>
   <h1>Aaron Rodriguez</h1>
-  <p class="desc">I build cloud-native data pipelines that run reliably in production. 10+ years across the full stack — ingestion, transformation, modeling, and BI delivery — at companies across media, adtech, healthcare, real estate, and defense.</p>
+  <p class="desc">Pipelines that don't fail. Reports that aren't stale. 10+ years building cloud-native data infrastructure across Azure, Databricks, and dbt from ingestion to executive-ready output.</p>
   <div class="actions">
     <a href="/experience" class="btn-primary">View Experience</a>
     <a href="/contact" class="btn-ghost">Get in Touch</a>
   </div>
 </div>
 <div class="cards">
-  <div class="card"><div class="card-label">Currently</div><div class="card-value">BI Engineer III</div><div class="card-sub">National CineMedia</div></div>
+  <div class="card"><div class="card-label">Most Recently</div><div class="card-value">Senior Data Engineer</div><div class="card-sub">National CineMedia · 2022–2026</div></div>
   <div class="card"><div class="card-label">Stack</div><div class="card-value">Azure · Databricks · dbt</div><div class="card-sub">Snowflake · Power BI · Fivetran</div></div>
   <div class="card"><div class="card-label">Service</div><div class="card-value">USMC · OIF II</div><div class="card-sub">Al-Anbar Province · 2004</div></div>
 </div>
 <div class="about">
   <div class="about-label">About</div>
   <div class="about-body">
-    <p>I've worked across the full data stack for over a decade — ingestion, transformation, dimensional modeling, semantic layers, and BI delivery — spanning media, adtech, healthcare, real estate, manufacturing, and defense.</p>
+    <p>Senior Data Engineer with 10+ years building cloud-native pipelines from ingestion to executive-ready output across Azure and Databricks. Deep experience in medallion architecture, dimensional modeling, and BI delivery across media, adtech, healthcare, real estate, and defense.</p>
     <p>Before data engineering, I served in the United States Marine Corps Reserve as a Field Artillery Cannoneer (0811), deploying to Iraq in 2004 with I MEF in support of Operation Iraqi Freedom II. Previously held Secret clearance. U.S. citizen.</p>
   </div>
 </div>
