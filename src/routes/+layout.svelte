@@ -23,7 +23,7 @@
   <span>Aaron Rodriguez · aaron@aaronr.dev</span>
   <div class="footer-links">
     <a href="https://linkedin.com/in/aaronjrodriguez" target="_blank" rel="noopener">LinkedIn</a>
-    <a href="https://github.com/ajrodr82" target="_blank" rel="noopener">GitHub</a>
+    <a href="https://github.com/aaronr-dev" target="_blank" rel="noopener">GitHub</a>
   </div>
 </footer>
 <style>

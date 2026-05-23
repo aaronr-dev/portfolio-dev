@@ -11,9 +11,9 @@
     <span class="value">linkedin.com/in/aaronjrodriguez</span>
     <span class="arrow">→</span>
   </a>
-  <a href="https://github.com/ajrodr82" target="_blank" rel="noopener" class="row">
+  <a href="https://github.com/aaronr-dev" target="_blank" rel="noopener" class="row">
     <span class="label">GitHub</span>
-    <span class="value">github.com/ajrodr82</span>
+    <span class="value">github.com/aaronr-dev</span>
     <span class="arrow">→</span>
   </a>
   <a href="/AaronRodriguez_Resume_DE.pdf" target="_blank" class="row">
